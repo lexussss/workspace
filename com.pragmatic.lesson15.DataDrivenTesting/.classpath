@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/datadriven"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/libraries"/>
+	<classpathentry kind="lib" path="D:/Pragmatic_Automation_Testing_Course/Lectures/Install/libs/selenium-server-standalone-2.42.2.jar"/>
+	<classpathentry kind="lib" path="D:/Pragmatic_Automation_Testing_Course/Lectures/Install/Apache POI/poi-3.10-FINAL/poi-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/Pragmatic_Automation_Testing_Course/Lectures/Install/Apache POI/poi-3.10-FINAL/poi-ooxml-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="D:/Pragmatic_Automation_Testing_Course/Lectures/Install/Apache POI/poi-3.10-FINAL/poi-ooxml-schemas-3.10-FINAL-20140208.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre8/lib/rt.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="D:/Pragmatic_Automation_Testing_Course/Lectures/Install/Apache POI/poi-3.10-FINAL/ooxml-lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Pragmatic_Automation_Testing_Course/Lectures/Install/Apache POI/poi-3.10-FINAL/ooxml-lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Pragmatic_Automation_Testing_Course/Lectures/Install/Apache POI/poi-3.10-FINAL/ooxml-lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

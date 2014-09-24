@@ -1,0 +1,46 @@
+[0.000][INFO]:      ChromeDriver 26.0.1383.0 C:\Users\Strahinski\Desktop\Automated Testing Course\Lectures\Lecture 12 - Working with Selenium API & Overview of Selenium WebDriver\chromedriver.exe
+[0.264][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.switches": [  ],
+   "chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.264][INFO]:      Launching chrome: "C:\Users\Strahinski\AppData\Local\Google\Chrome\Application\chrome.exe" --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --enable-logging --log-level=1 --ignore-certificate-errors about:blank
+[2.144][INFO]:      Connected to Chrome successfully. Version: 30.0.1599.101
+[2.196][FINE]:      Command received (/session/5b301a878b2ae2675a2ff301286cabba)
+[2.197][FINE]:      Command finished (/session/5b301a878b2ae2675a2ff301286cabba) with response {
+   "sessionId": "5b301a878b2ae2675a2ff301286cabba",
+   "status": 0,
+   "value": {
+      "acceptSslCerts": false,
+      "applicationCacheEnabled": false,
+      "browserConnectionEnabled": false,
+      "browserName": "chrome",
+      "chrome.chromedriverVersion": "26.0.1383.0",
+      "cssSelectorsEnabled": true,
+      "databaseEnabled": false,
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "locationContextEnabled": false,
+      "nativeEvents": true,
+      "platform": "windows",
+      "rotatable": false,
+      "takesScreenshot": true,
+      "version": "30.0.1599.101",
+      "webStorageEnabled": true
+   }
+}
+
+[2.262][FINE]:      Command received (/session/5b301a878b2ae2675a2ff301286cabba/url) with params {
+   "url": "http://dl.dropbox.com/u/55228056/bmicalculator.html"
+}
+
+[2.262][FINER]:     Waiting for all views to stop loading...
+[2.263][FINER]:     Done waiting for all views to stop loading
+[2.322][FINE]:      Command received (/session/5b301a878b2ae2675a2ff301286cabba)
+[2.525][INFO]:      Chrome shutdown
